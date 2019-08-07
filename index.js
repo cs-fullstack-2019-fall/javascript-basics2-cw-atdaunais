@@ -11,4 +11,4 @@ alert("Your total grade is: " + (studentGrade + extraCredit));
 
 var balance = parseInt(prompt("What is your balance?"));
 var deduction = parseInt(prompt("How much do you want to deduct?"));
-alert("Remaining balance: " + (balance - deduction));
+alert("Remaining balance: $" + (balance - deduction));
